@@ -25,20 +25,25 @@
 
 ---
 
-## 📊 **Estatísticas do GitHub**
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-### 🔥 **Streak (Sequência de Contribuições)**
-<img src="https://streak-stats.demolab.com?user=Viniciuss1789&theme=tokyonight">
+### 🔥 Streak (Sequência de Contribuições)
+<img src="https://streak-stats.demolab.com?user=Viniciuss1789&theme=tokyonight" alt="GitHub Streak"/>
 
-### 📈 **Stats gerais**
-<img src="https://github-readme-stats.vercel.app/api?username=Viniciuss1789&show_icons=true&theme=tokyonight&hide_border=true">
+---
 
-### 🧠 **Linguagens mais usadas**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuss1789&layout=compact&theme=tokyonight&hide_border=true">
+### 📈 Stats gerais
+<img src="https://github-readme-stats.vercel.app/api?username=Viniciuss1789&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+
+---
+
+### 🧠 Linguagens mais usadas
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuss1789&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
 
 </div>
+
 
 ---
 
