@@ -1,5 +1,14 @@
+<!-- BANNER -->
+<p align="center">
+  <img src="COLOQUE_AQUI_O_LINK_DA_SUA_IMAGEM_DE_CAPA" width="100%" alt="Banner">
+</p>
+
 # 👋 Olá! Eu sou **Vinicius de Paula Silva Sebastião**
 
+<p align="center">
+  <!-- FOTO DE PERFIL -->
+  <img src="COLOQUE_AQUI_O_LINK_DA_SUA_FOTO_DE_PERFIL" width="150" 
+       style="border-radius: 50%" alt="Foto do Vinicius">
 </p>
 
 🎓 Estudante da **Faculdade Flamingo**, cursando **Gestão da Tecnologia da Informação (GTI)**.  
@@ -32,9 +41,14 @@
 
 <div align="center">
 
+### ⭐ **Meus Stats**
+<img src="https://github-readme-stats.vercel.app/api?username=Viniciuss1789&show_icons=true&theme=tokyonight">
+
 ### 🔥 **Streak (Sequência de Contribuições)**
 <img src="https://streak-stats.demolab.com?user=Viniciuss1789&theme=tokyonight">
 
+### 📈 **Linguagens Mais Usadas**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuss1789&layout=compact&theme=tokyonight">
 
 </div>
 
