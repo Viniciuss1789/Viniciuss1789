@@ -39,7 +39,7 @@
 <img src="https://streak-stats.demolab.com?user=Viniciuss1789&theme=tokyonight">
 
 ### 📈 **Linguagens Mais Usadas**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuss1789&layout=compact&theme=tokyonight">
 
 </div>
 
