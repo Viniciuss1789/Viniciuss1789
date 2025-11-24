@@ -32,14 +32,9 @@
 
 <div align="center">
 
-### ⭐ **Meus Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=Viniciuss1789&show_icons=true&theme=tokyonight">
-
 ### 🔥 **Streak (Sequência de Contribuições)**
 <img src="https://streak-stats.demolab.com?user=Viniciuss1789&theme=tokyonight">
 
-### 📈 **Linguagens Mais Usadas**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuss1789&layout=compact&theme=tokyonight">
 
 </div>
 
