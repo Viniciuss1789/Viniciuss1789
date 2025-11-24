@@ -21,6 +21,7 @@
 <img alt="JS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
 
 ---
 
@@ -28,20 +29,27 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viniciuss1789&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuss1789&layout=compact&theme=tokyonight&hide_border=true)
-  
 ### 🔥 **Streak (Sequência de Contribuições)**
 <img src="https://streak-stats.demolab.com?user=Viniciuss1789&theme=tokyonight">
+
+### 📈 **Stats gerais**
+<img src="https://github-readme-stats.vercel.app/api?username=Viniciuss1789&show_icons=true&theme=tokyonight&hide_border=true">
+
+### 🧠 **Linguagens mais usadas**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuss1789&layout=compact&theme=tokyonight&hide_border=true">
 
 </div>
 
 ---
 
 ## 📫 Contato
-Em breve adiciono minhas redes e portfólio!
+✨ Em breve adiciono minhas redes e portfólio!
+
+---
+
+## 🐍 Animação das contribuições (Snake)
+<div align="center">
+  
+![Snake animation](https://github.com/Viniciuss1789/Viniciuss1789/blob/output/github-contribution-grid-snake.svg)
+
+</div>
