@@ -27,6 +27,14 @@
 ## 📊 **Estatísticas do GitHub**
 
 <div align="center">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viniciuss1789&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuss1789&layout=compact&theme=tokyonight&hide_border=true)
   
 ### 🔥 **Streak (Sequência de Contribuições)**
 <img src="https://streak-stats.demolab.com?user=Viniciuss1789&theme=tokyonight">
