@@ -1,4 +1,15 @@
+<!-- BANNER -->
+<p align="center">
+  <img src="COLOQUE_AQUI_O_LINK_DA_SUA_IMAGEM_DE_CAPA" width="100%" alt="Banner">
+</p>
+
 # 👋 Olá! Eu sou **Vinicius de Paula Silva Sebastião**
+
+<p align="center">
+  <!-- FOTO DE PERFIL -->
+  <img src="COLOQUE_AQUI_O_LINK_DA_SUA_FOTO_DE_PERFIL" width="150" 
+       style="border-radius: 50%" alt="Foto do Vinicius">
+</p>
 
 🎓 Estudante da **Faculdade Flamingo**, cursando **Gestão da Tecnologia da Informação (GTI)**.  
 💻 Apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluções criativas.
@@ -16,25 +27,12 @@
 ## 🛠️ Linguagens & Tecnologias
 
 <div style="display: inline_block"><br>
-
-<img align="center" alt="HTML" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
-<img align="center" alt="CSS" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-<img align="center" alt="JavaScript" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-<img align="center" alt="Python" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-<img align="center" alt="Git" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img align="center" alt="Linux" height="40" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
+<img alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img alt="JS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
 ---
@@ -44,16 +42,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
 <div align="center">
 
 ### ⭐ **Meus Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight">
 
 ### 🔥 **Streak (Sequência de Contribuições)**
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO_AQUI&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO_AQUI&theme=tokyonight">
 
 ### 📈 **Linguagens Mais Usadas**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight">
 
 </div>
 
@@ -61,4 +56,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
 
 ## 📫 Contato
 Em breve adiciono minhas redes e portfólio!
-
