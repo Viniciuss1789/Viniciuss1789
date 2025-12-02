@@ -48,6 +48,6 @@
 ---
 
 ## 📫 Contato
-✨ Em breve adiciono minhas redes e portfólio!
+https://viniciuss1789.github.io/Portifolio/
 
 </div>
