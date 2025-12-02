@@ -42,7 +42,7 @@
 
 ### 🧠 Linguagens mais usadas
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuss1789&layout=compact&theme=tokyonight&hide_border=true">
-</div>
+
 
 
 ---
