@@ -8,10 +8,10 @@
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Em formação na área de TI  
-- 💡 Interesse em desenvolvimento, infraestrutura e gestão de sistemas  
-- 📚 Sempre aprendendo novas tecnologias  
-- 🤝 Aberto para colaborar em projetos  
+ 🎓 Em formação na área de TI  
+ 💡 Interesse em desenvolvimento, infraestrutura e gestão de sistemas  
+ 📚 Sempre aprendendo novas tecnologias  
+ 🤝 Aberto para colaborar em projetos  
 
 ---
 
