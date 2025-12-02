@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Olá! Eu sou **Vinicius de Paula Silva Sebastião**
 
 🎓 Estudante da **Faculdade Flamingo**, cursando **Gestão da Tecnologia da Informação (GTI)**.  
@@ -27,7 +29,6 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
 
 ### 🔥 Streak (Sequência de Contribuições)
 <img src="https://streak-stats.demolab.com?user=Viniciuss1789&theme=tokyonight" alt="GitHub Streak"/>
